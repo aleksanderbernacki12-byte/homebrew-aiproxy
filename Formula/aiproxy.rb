@@ -1,7 +1,6 @@
 class Aiproxy < Formula
   desc "Local reverse proxy that blocks leaked secrets and rate-limits LLM API calls"
   homepage "https://github.com/aleksanderbernacki12-byte/aiproxy"
-  version "0.12.0"
   license "MIT"
 
   on_macos do
