@@ -5,23 +5,23 @@ class Aiproxy < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/aleksanderbernacki12-byte/aiproxy/releases/download/v0.73.0/aiproxy-darwin-arm64"
-      sha256 "d1e76ebd68110c1185a3ae1a6db9c92975c53e15cc52ad0a036eb38c2ebf1ec7"
+      url "https://github.com/aleksanderbernacki12-byte/aiproxy/releases/download/v0.74.0/aiproxy-darwin-arm64"
+      sha256 "f3d3b69014413bf22c4ce738eccefcbbd5e26d53cb2b34b8047df6eb7b923419"
     end
     on_intel do
-      url "https://github.com/aleksanderbernacki12-byte/aiproxy/releases/download/v0.73.0/aiproxy-darwin-amd64"
-      sha256 "8fa71959e4af5e438ef1f5f162e4f3f7632ad000d23b5626461e0ecc93da85dc"
+      url "https://github.com/aleksanderbernacki12-byte/aiproxy/releases/download/v0.74.0/aiproxy-darwin-amd64"
+      sha256 "db7872fb96a4448ed8e99c0756147b08d8bac1c1c97f657b8b0fe76afcbf6bf5"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/aleksanderbernacki12-byte/aiproxy/releases/download/v0.73.0/aiproxy-linux-arm64"
-      sha256 "12e241c701ff87244ffcccd0470f0bff2f0bd5c0a5cbd86ab8ff014a2baef49c"
+      url "https://github.com/aleksanderbernacki12-byte/aiproxy/releases/download/v0.74.0/aiproxy-linux-arm64"
+      sha256 "9c72fb4e57f5c4f518e39cedcc9c483451f3d98231429981905dbe71df8b3777"
     end
     on_intel do
-      url "https://github.com/aleksanderbernacki12-byte/aiproxy/releases/download/v0.73.0/aiproxy-linux-amd64"
-      sha256 "38251e636068e7385cadf5a9ac359229aab95e8984d5a11a86bc7eecc5b3cce0"
+      url "https://github.com/aleksanderbernacki12-byte/aiproxy/releases/download/v0.74.0/aiproxy-linux-amd64"
+      sha256 "df968055a20eca5f711de63ade6751054823affdc47ddbe55d82c3db0816f194"
     end
   end
 
